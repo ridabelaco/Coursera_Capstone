@@ -1,0 +1,48 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Manhattan,Financial District,521b898a8bbdce5bf8e95c58,Complete Body,80,8.6,6
+1,Manhattan,Financial District,5587da4f498e9d88e373b269,Pure Barre Financial District,32,8.1,6
+2,Queens,Astoria,4c94d26d58d4b60c40fc2b29,CrossFit Queens,49,8.8,7
+3,Queens,Astoria,4d7ce85486cfa14365a2d2a0,Simply Fit Astoria,32,8.3,11
+4,Queens,Howard Beach,5c6ba71efd9d73002c4999c2,Planet Fitness,3,7.3,0
+5,Queens,Howard Beach,0,0,0,0.0,0
+6,Queens,Forest Hills,0,0,0,0.0,0
+7,Queens,Forest Hills,0,0,0,0.0,0
+8,Queens,Flushing,4afe2dd7f964a520882e22e3,Bodhi Fitness Center,19,7.9,9
+9,Queens,Long Island City,4dd2dd2be4cd1b19130b9d1d,MetLife Gym,7,7.0,1
+10,Queens,Ozone Park,4d7e71f97991dcb309a21f9e,Zumba® Crossbay Blvd,9,8.1,3
+11,Queens,Bayside,4f077c3ae4b00a2750fc5891,Better Body Bootcamp,8,7.7,0
+12,Queens,Briarwood,0,0,0,0.0,0
+13,Queens,Jamaica Center,50ddf853e4b01e17ddb6f816,Blink Fitness,69,8.3,19
+14,Queens,Springfield Gardens,4bc5f71ff360ef3b43e2da2d,Cross Island Sports & Fitness,8,7.2,3
+15,Queens,Bay Terrace,0,0,0,0.0,0
+16,Queens,Lindenwood,0,0,0,0.0,0
+17,Queens,North Corona,59a5c9f4dd70c5723c680227,Blink Fitness,1,6.7,1
+18,Staten Island,Stapleton,0,0,0,0.0,0
+19,Staten Island,Travis,4b47047cf964a520942a26e3,New York Sports Club,19,7.0,8
+20,Staten Island,Travis,4c86d2a2110176b09e3db340,LA Fitness,31,6.0,22
+21,Staten Island,Travis,0,0,0,0.0,0
+22,Staten Island,Eltingville,4b40ab2cf964a520b9b925e3,YMCA,32,7.6,10
+23,Staten Island,Sunnyside,0,0,0,0.0,0
+24,Manhattan,Carnegie Hill,574dc71c498ef19a1c178913,Equinox East 92nd Street,72,9.3,12
+25,Manhattan,Carnegie Hill,52b9c263498ebbff8b240197,ChaiseFitness,22,8.2,3
+26,Manhattan,Noho,59cd5e7ee96d0c7515ce6d4f,Equinox Orchard Street,42,9.1,0
+27,Manhattan,Civic Center,52001eed498e9ac16ca5e20b,CrossFit 212 TriBeCa,17,8.4,3
+28,Manhattan,Civic Center,4b66c53ff964a520352a2be3,The Helena Gym,16,7.8,1
+29,Manhattan,Civic Center,4a6e331af964a52031d41fe3,Equinox Tribeca,248,8.8,21
+30,Manhattan,Midtown South,524dfe3611d26976a6d62277,Blink Fitness,171,8.1,25
+31,Manhattan,Midtown South,56427e79498e969d8209dfb5,AKT in Motion,12,8.0,1
+32,Bronx,Claremont Village,5632f45c498ef690c483ecda,Retro Fitness,3,7.0,2
+33,Bronx,Mount Eden,55b37baf498e550d3a76f065,Blink Fitness,15,7.8,4
+34,Manhattan,Sutton Place,4adf1930f964a5208a7721e3,Equinox East 61st Street,125,9.2,3
+35,Manhattan,Sutton Place,5848b86b65e7c766392d869e,ICE NYC,10,8.4,3
+36,Manhattan,Sutton Place,4dc47544fa76d685cdc7a353,TS Fitness,7,8.1,1
+37,Manhattan,Sutton Place,4ad7964cf964a520780c21e3,InForm Fitness,4,7.6,3
+38,Manhattan,Sutton Place,0,0,0,0.0,0
+39,Manhattan,Tudor City,4c780d08566db60c5a4f400e,Manhattan Place Health Club,8,8.2,0
+40,Manhattan,Tudor City,0,0,0,0.0,0
+41,Manhattan,Flatiron,54cd0dab498e6e5d8a9d7866,The Fhitting Room,151,9.2,15
+42,Manhattan,Flatiron,4af0e05cf964a520d7df21e3,New York Health and Racquet Club,195,8.4,34
+43,Queens,Sunnyside Gardens,4b6cb85bf964a520f24e2ce3,Phyzique,36,7.5,9
+44,Brooklyn,Dumbo,574da288498eda5b31e1da24,Equinox Dumbo,91,9.2,15
+45,Brooklyn,Dumbo,4e2313d4c65b2b5e355768b3,CrossFit Dumbo,23,8.7,3
+46,Manhattan,Hudson Yards,4c0870ae340720a1703f8393,505W37 Gym,15,7.3,3

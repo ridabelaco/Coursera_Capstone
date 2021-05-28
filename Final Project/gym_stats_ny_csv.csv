@@ -1,0 +1,51 @@
+,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Manhattan,Marble Hill,4cf6ae55d3a8a1cd71a9d243,Astral Fitness & Wellness Center,6,7.5,1
+1,Bronx,Fordham,52af0e3c11d2fb9a346ce0f7,Blink Fitness,25,7.6,4
+2,Bronx,Fordham,4d94c27b0d7ed7cea8ddfb46,Lucille Roberts,14,7.7,0
+3,Bronx,High  Bridge,5769027ccd106670100ea1af,Retro Fitness,1,6.8,1
+4,Bronx,Melrose,542c31e1498e76106c273492,Blink Fitness,1,7.2,0
+5,Bronx,Mott Haven,0,0,0,0.0,0
+6,Bronx,Westchester Square,4c98a1174804a143bee6ec0e,Star Fitness,15,6.8,4
+7,Bronx,North Riverdale,0,0,0,0.0,0
+8,Brooklyn,Sunset Park,5a5cd57d628c83318748eeef,Blink Fitness,7,6.7,1
+9,Brooklyn,Sunset Park,4ae4935df964a520d99b21e3,Richie's Gym,16,6.5,4
+10,Brooklyn,Greenpoint,49bbf847f964a520ff531fe3,Greenpoint YMCA,72,6.5,38
+11,Brooklyn,Gravesend,0,0,0,0.0,0
+12,Brooklyn,Williamsburg,579baeff498e21290f2705c9,Blink Fitness,48,8.2,4
+13,Brooklyn,Brooklyn Heights,5654b5be498e89858b0c08bd,Orangetheory Fitness,19,8.7,4
+14,Brooklyn,Brooklyn Heights,4ab5817ef964a5200c7520e3,Eastern Athletic Club,52,6.8,14
+15,Brooklyn,Marine Park,0,0,0,0.0,0
+16,Brooklyn,Downtown,53cfa344498e2ee88a9b4b4c,Manhattan Athletic Club,8,7.3,0
+17,Brooklyn,Downtown,4b069ce1f964a520baed22e3,The Brooklyner Gym,15,7.7,3
+18,Brooklyn,North Side,574da2fe498e741ecda28152,Equinox Williamsburg,135,9.0,13
+19,Brooklyn,South Side,579baeff498e21290f2705c9,Blink Fitness,48,8.2,4
+20,Brooklyn,Ocean Parkway,0,0,0,0.0,0
+21,Manhattan,Washington Heights,5a3ea6ac610f044748e42d0c,Blink Fitness,5,7.0,2
+22,Manhattan,East Harlem,4e4e91ca18505e3814e804c6,Women's World of Boxing,10,8.1,3
+23,Manhattan,Yorkville,4fb7ff5dc2ee15fc8eefd091,EVF Performance,30,8.4,3
+24,Manhattan,Yorkville,4c8b8f8b52a98cfacfe736e9,Brearley Field House,14,7.8,1
+25,Manhattan,Yorkville,576bc127498ec2cf804a6272,Regenerate 82,7,8.0,2
+26,Manhattan,Lenox Hill,4ac13d5ff964a5205b9620e3,Equinox,217,8.7,43
+27,Manhattan,Lenox Hill,4d2873d277a2a1cdec6262b7,Refine Method,11,7.9,2
+28,Manhattan,Lenox Hill,5578b383498ecd5646bda7fd,The Fhitting Room Penthouse,48,9.1,4
+29,Manhattan,Lincoln Square,45938647f964a52045401fe3,Equinox Sports Club New York,180,8.9,46
+30,Manhattan,Lincoln Square,51dc98c6498e0a421438a27b,Crossfit NYC - Upper West Side,54,8.7,5
+31,Manhattan,Lincoln Square,4c48795ad7439c74a40dcf39,Sessanta Club,3,6.8,4
+32,Manhattan,Clinton,5744ea4f498e04b30dddd5f3,Life Time Sky,51,9.2,0
+33,Manhattan,Clinton,4d8dfba8d00a6ea8e7d9ad4f,Club 7 By Iowa Sports,15,8.3,6
+34,Manhattan,Clinton,4c0870ae340720a1703f8393,505W37 Gym,15,7.3,3
+35,Manhattan,Midtown,4a047a18f964a520ff711fe3,Equinox East 43rd Street,119,8.7,18
+36,Manhattan,Midtown,53851395498e2379f6178a0d,Equinox Bryant Park,267,8.8,28
+37,Manhattan,Murray Hill,50a91239e4b0740a18a36b4d,Blink Fitness,180,8.3,37
+38,Manhattan,Murray Hill,49c943d2f964a5204f581fe3,Equinox Park Avenue,361,8.2,60
+39,Manhattan,Chelsea,4a05d2abf964a52081721fe3,Equinox High Line,318,8.6,60
+40,Manhattan,Tribeca,5701c190498e0b1ff0f5c172,DOGPOUND,15,8.1,1
+41,Manhattan,Soho,49bd4e25f964a52067541fe3,Equinox SoHo,638,8.9,129
+42,Manhattan,West Village,5488db09498e851a0183403a,Refine Method,19,8.1,4
+43,Manhattan,Battery Park City,541a2341498e51ce1037963a,Equinox Brookfield Place,173,9.0,14
+44,Manhattan,Battery Park City,50ddf0dbe4b0929c14560f46,The Club at Gateway,8,7.5,0
+45,Manhattan,Battery Park City,0,0,0,0.0,0
+46,Manhattan,Financial District,4a2f3322f964a520b6981fe3,Equinox Wall Street,309,8.7,49
+47,Manhattan,Financial District,521b898a8bbdce5bf8e95c58,Complete Body,80,8.6,6
+48,Queens,Astoria,4c94d26d58d4b60c40fc2b29,CrossFit Queens,49,8.8,7
+49,Queens,Astoria,4d7ce85486cfa14365a2d2a0,Simply Fit Astoria,32,8.3,11
